@@ -1,5 +1,3 @@
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-
 # Command Line Diary
 
 This is a command line interface (CLI) application designed to function as a diary, inspired by the futuristic command line apps seen in sci-fi movies. 
